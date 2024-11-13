@@ -1,6 +1,6 @@
 # Frontend Coding Challenge v2.0
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) and has addtional libraries included:
+Please use NVM and run the relative use command depending on your OS to install the correct Node version and follow the guides below.
 
 - [Redux](https://redux.js.org/)
 - [Redux Thunk](https://github.com/reduxjs/redux-thunk)
